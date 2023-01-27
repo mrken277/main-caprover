@@ -59,7 +59,7 @@
         "request": "^2.88.2",
         "require-from-string": "^2.0.2",
         "serve-favicon": "~2.5.0",
-        "simple-git": "^2.17.0",
+        "simple-git": "^3.16.0",
         "ssh2": "^0.8.9",
         "tar": "^6.0.5",
         "tslint": "^6.1.3",
